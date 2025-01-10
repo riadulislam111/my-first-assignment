@@ -45,8 +45,7 @@ border-radius:;
     height: 324px;
 }
 .zero{
-
-    margin:160px 160px ;
+    margin:0px auto ;
     padding-left:160px;
     padding-right:160px;
 }
@@ -99,4 +98,26 @@ width: 122px;
             background-color: white;
         padding-left: 160px;
         padding-right: 160px;
+        margin: 0 auto;
         }
+        .parent{
+            display: flex;
+        }
+        .d-tbn{
+            background-color:#006A50;
+            padding: 20px 11px;
+            font: size 16px; 
+            color: white;
+            width: 122px;
+            height: 41px;
+            border-radius: 5px;
+            }
+            .e-tbn{
+                background-color:#006A50;
+                padding: 20px 11px;
+                font: size 16px; 
+                color: white;
+                width: 122px;
+                height: 41px;
+                border-radius: 5px;
+                }
