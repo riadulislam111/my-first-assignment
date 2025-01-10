@@ -27,7 +27,8 @@ font-size: 56px;
     width: 270px;
     height: 56px;
     background-color:#006A50 ;
-    text-emphasis-color: #FFFFFF;
+    color: white;
+    font-size: 18px;
 }
 
 .title {
@@ -44,8 +45,10 @@ border-radius:;
     height: 324px;
 }
 .zero{
-    
+
     margin:160px 160px ;
+    padding-left:160px;
+    padding-right:160px;
 }
 .div{
     background-color:#FFFFFF ;
@@ -68,5 +71,32 @@ justify-content: space-between;
 .a-tbn{
 background-color: #006A50;
 padding: 20px 11px;
-
+font: size 16px; 
+color: white;
+width: 122px;
+        height: 41px;
+        border-radius: 5px;
 }
+.b-tbn{
+    background-color: #09A15C;
+    padding: 20px 11px;
+    font: size 16px; 
+    color: white;
+    width: 122px;
+        height: 41px;
+        border-radius: 5px;
+    }
+    .c-tbn{
+        background-color:#FFC239;
+        padding: 20px 11px;
+        font: size 16px; 
+        color: white;
+        width: 122px;
+        height: 41px;
+        border-radius: 5px;
+        }
+        .younus{
+            background-color: white;
+        padding-left: 160px;
+        padding-right: 160px;
+        }
