@@ -15,6 +15,7 @@ nav{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     line-height: auto;
     
+
 }
 .baner{
 display: flex;
@@ -44,11 +45,8 @@ border-radius:;
     width: 1280px;
     height: 324px;
 }
-.zero{
-    margin:0px auto ;
-    padding-left:160px;
-    padding-right:160px;
-}
+
+    
 .div{
     background-color:#FFFFFF ;
     width: 302px;
@@ -121,3 +119,70 @@ width: 122px;
                 height: 41px;
                 border-radius: 5px;
                 }
+                .alja{
+                    background-color:#ffd9d9;
+                    border-radius: 10px;
+                    align-items: center;
+                }
+                .aljaa{
+                    background-color:#ffd9d9;
+                    border-radius: 10px;
+                    align-items: center;
+                }
+                .donate{
+                    
+                    font-size: 40px;
+                    width: 1280px;
+                    height: 48px;
+                }
+            .para{
+             font-size: 16px;
+             width: 1104px;
+             height: 48px;
+
+            }
+            .abt{
+                background-color: #ffffff;
+            border-radius: 10px;
+            align-items: self-start;
+            height: 128px;
+            width: 240px;
+            font-size:40px ;
+            border: none;
+            box-shadow: 0 10px;
+            cursor: pointer;
+            text-align: center;
+            pad:40px 40px ;
+transform: translate(5px);
+        }
+        .abtt{
+            background-color: #C6E4D6;
+            border-radius: 10px;
+            align-items: self-start;
+            height: 128px;
+            width: 240px;
+            font-size: 40px;
+            border: none;
+            box-shadow: 0 10px;
+            cursor: pointer;
+            text-align: center;
+            pad:40px 40px ;
+transform: translate(5px); 
+        }
+        .amount{
+            height: 64px;
+            width: 1032px;
+            padding: 40px 20px;
+            align-items: center;
+            background-color: white;
+        }
+        .done{
+            background-color: #006A50;
+            padding: 20px 11px;
+            font: size 16px; 
+            color: white;
+            width: 122px;
+                    height: 41px;
+                    border-radius: 5px;
+                    align-items: center;
+            }
