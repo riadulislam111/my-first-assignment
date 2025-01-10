@@ -2,11 +2,37 @@
     background-color: #C6E4D6;
 margin: 147px;
 }
+.yoo{
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: auto;
+    
+}
+.text {
+font-size: 56px;
+}
+.hero{
+height: 56px;
+width: 270px;
+color: #006A50;
+padding: 34px 17px;
+
+}
+.img{
+    align-items:center;
+}
+
+
 
 .title {
     
     padding: 119px;
-    margin:  ;
+    margin:;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 border-radius:;
+}
+.w {
+    width: 622px;
+    height: 29px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
